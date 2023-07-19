@@ -358,7 +358,7 @@ address p {
   border: 1px solid #eee;
 }
 
-.project-cards .team-container {
+.team-container {
   max-width: 1600px;
   display: flex;
   justify-content: center;
