@@ -194,12 +194,16 @@ ul.main-navigation {
   line-height: 2;
   font-weight: 700;
   margin: 0;
+  padding-left: 24px;
+  padding-top: 20px;
 }
 
 .image-description {
   color: #757575;
   font-size: 16px;
   line-height: 1.875;
+  padding-left: 24px;
+  margin: 0;
 }
 
 footer {
@@ -356,6 +360,11 @@ address p {
   width: 370px;
   height: 404px;
   border: 1px solid #eee;
+}
+
+.project-cards div {
+  width: 370px;
+  height: 404px;
 }
 
 .team-container {
